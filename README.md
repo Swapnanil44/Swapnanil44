@@ -1,5 +1,5 @@
 # 💫 About Me
-Hey, I'm Swapnanil.<br>Turning coffee into code and bugs into features—that's my day-to-day.<br>I'm a software engineer in Kolkata, India, with a deep passion for learning<br>new technologies and building solutions from the ground up.
+Hey, I'm Swapnanil.<br>Turning coffee into code and bugs into features—that's my day-to-day.<br>I'm a software engineer from Kolkata, India, with a deep passion for learning<br>new technologies and building solutions from the ground up.
 
 
 ## 🌐 Socials
